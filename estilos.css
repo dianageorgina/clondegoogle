@@ -12,7 +12,7 @@ header nav{
     display: flex;
     justify-content: flex-end;
 }
-header nav .Nav-right-section{
+header nav .nav-right-section{
     width: 250px;
     height: auto;
     display: flex;
@@ -25,13 +25,13 @@ a{
     margin-right: 25px;
     color: black;
 }
-nav .Nav-right-section img{
-    border: radius 150px;
+nav .nav-right-section img{
+    border: radius 80px;
     margin-left: 15px;
     width: 35px;
     height: 35px;
 }
-nav .Nav-right-section .menu-icon{
+nav .nav-right-section .menu-icon{
     background-image: url(https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png);
     width: 27px;
     height: 27px;
