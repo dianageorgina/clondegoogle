@@ -121,7 +121,7 @@ main .main-buttons button:hover{
     box-shadow: 0 0.5px 1px 0 #000001;
     cursor: pointer;
 }
-footer {
+footer{
     width: 100px;
     height: 50px;
     background-color: #f2f2f2;
@@ -139,9 +139,9 @@ footer ul{
     display: flex;
     padding-left: 0;
 }
-footer .fotter-left{
+footer .footer-left{
     justify-self: left;
 }
-footer .fotter-right{
+footer .footer-right{
     justify-self: right;
 }
